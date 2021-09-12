@@ -13,3 +13,6 @@ python app.py
 you will reach the homepage with 3 input boxes.
 
 enter the numeric values(valid ones) and hit predict.
+
+The Live link for the project hosted on pythonanywhere is below.
+http://shobhit5923.pythonanywhere.com/predict
